@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "ewmedieval:block/cracked_blue_tuff_tiles",
+    "side": "ewmedieval:block/cracked_blue_tuff_tiles",
+    "top": "ewmedieval:block/cracked_blue_tuff_tiles"
+  }
+}

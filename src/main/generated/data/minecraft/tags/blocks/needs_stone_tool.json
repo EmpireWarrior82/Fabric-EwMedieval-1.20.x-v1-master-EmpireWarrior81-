@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:lapis_ore",
+    "minecraft:copper_ore",
+    "minecraft:deepslate_copper_ore",
+    "ewmedieval:tin_block",
+    "ewmedieval:raw_tin_block",
+    "ewmedieval:tin_ore",
+    "ewmedieval:deepslate_tin_ore",
+    "ewmedieval:raw_lead_block",
+    "ewmedieval:lead_block",
+    "ewmedieval:cut_lead",
+    "ewmedieval:deepslate_lead_ore"
+  ]
+}

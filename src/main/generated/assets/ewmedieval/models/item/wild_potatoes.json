@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ewmedieval:block/wild_potatoes"
+  }
+}

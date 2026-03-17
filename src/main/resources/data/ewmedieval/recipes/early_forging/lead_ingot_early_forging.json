@@ -1,0 +1,13 @@
+{
+  "type": "ewmedieval:earlyforge",
+  "ingredients": [
+    { "item": "ewmedieval:raw_lead" },
+    {},
+    {},
+    {}
+  ],
+  "result": {
+    "item": "ewmedieval:lead_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "group": "cactus_steak",
+  "ingredient": {
+    "item": "ewmedieval:cactus_flesh"
+  },
+  "result": "ewmedieval:cactus_steak"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "ewmedieval:earlyforge",
+  "ingredients": [
+    { "item": "ewmedieval:raw_tin" },
+    {},
+    {},
+    {}
+  ],
+  "result": {
+    "item": "ewmedieval:tin_ingot",
+    "count": 1
+  }
+}

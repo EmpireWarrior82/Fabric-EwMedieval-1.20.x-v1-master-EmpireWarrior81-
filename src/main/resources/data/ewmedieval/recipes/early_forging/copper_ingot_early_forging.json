@@ -1,0 +1,13 @@
+{
+  "type": "ewmedieval:earlyforge",
+  "ingredients": [
+    { "item": "minecraft:raw_copper" },
+    {},
+    {},
+    {}
+  ],
+  "result": {
+    "item": "minecraft:copper_ingot",
+    "count": 1
+  }
+}

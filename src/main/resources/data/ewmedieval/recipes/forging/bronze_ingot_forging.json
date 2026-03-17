@@ -1,0 +1,13 @@
+{
+  "type": "ewmedieval:forge",
+  "ingredients": [
+    { "item": "ewmedieval:bronze_mixture" },
+    {},
+    {},
+    {}
+  ],
+  "result": {
+    "item": "ewmedieval:bronze_ingot",
+    "count": 1
+  }
+}

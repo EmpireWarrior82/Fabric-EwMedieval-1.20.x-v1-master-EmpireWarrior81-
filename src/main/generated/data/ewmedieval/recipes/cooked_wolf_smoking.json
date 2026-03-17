@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "group": "cooked_wolf",
+  "ingredient": {
+    "item": "ewmedieval:raw_wolf"
+  },
+  "result": "ewmedieval:cooked_wolf"
+}

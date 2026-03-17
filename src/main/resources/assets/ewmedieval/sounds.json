@@ -1,0 +1,124 @@
+{
+  "block.polished_tuff.break": {
+    "category": "block",
+    "subtitle": "subtitles.block.generic.break",
+    "sounds": [
+      "ewmedieval:polished_tuff_break1",
+      "ewmedieval:polished_tuff_break2",
+      "ewmedieval:polished_tuff_break3",
+      "ewmedieval:polished_tuff_break4",
+      "ewmedieval:polished_tuff_break5"
+    ]
+  },
+  "block.polished_tuff.place": {
+    "category": "block",
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      "ewmedieval:polished_tuff_break1",
+      "ewmedieval:polished_tuff_break2",
+      "ewmedieval:polished_tuff_break3",
+      "ewmedieval:polished_tuff_break4",
+      "ewmedieval:polished_tuff_break5"
+    ]
+  },
+  "block.polished_tuff.step": {
+    "category": "block",
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      "ewmedieval:polished_tuff_step1",
+      "ewmedieval:polished_tuff_step2",
+      "ewmedieval:polished_tuff_step3",
+      "ewmedieval:polished_tuff_step4",
+      "ewmedieval:polished_tuff_step5",
+      "ewmedieval:polished_tuff_step6"
+    ]
+  },
+  "block.polished_tuff.hit": {
+    "category": "block",
+    "subtitle": "subtitles.block.generic.hit",
+    "sounds": [
+      "ewmedieval:polished_tuff_step1",
+      "ewmedieval:polished_tuff_step2",
+      "ewmedieval:polished_tuff_step3",
+      "ewmedieval:polished_tuff_step4",
+      "ewmedieval:polished_tuff_step5",
+      "ewmedieval:polished_tuff_step6"
+    ]
+  },
+  "block.polished_tuff.fall": {
+    "category": "block",
+    "subtitle": "subtitles.block.generic.fall",
+    "sounds": [
+      "ewmedieval:polished_tuff_step1",
+      "ewmedieval:polished_tuff_step2",
+      "ewmedieval:polished_tuff_step3",
+      "ewmedieval:polished_tuff_step4",
+      "ewmedieval:polished_tuff_step5",
+      "ewmedieval:polished_tuff_step6"
+    ]
+  },
+  "block.tuff_bricks.break": {
+    "category": "block",
+    "subtitle": "subtitles.block.generic.break",
+    "sounds": [
+      "ewmedieval:tuff_bricks_place1",
+      "ewmedieval:tuff_bricks_place2",
+      "ewmedieval:tuff_bricks_place3",
+      "ewmedieval:tuff_bricks_place4"
+    ]
+  },
+  "block.tuff_bricks.place": {
+    "category": "block",
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      "ewmedieval:tuff_bricks_place1",
+      "ewmedieval:tuff_bricks_place2",
+      "ewmedieval:tuff_bricks_place3",
+      "ewmedieval:tuff_bricks_place4"
+    ]
+  },
+  "block.tuff_bricks.step": {
+    "category": "block",
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      "ewmedieval:tuff_bricks_step1",
+      "ewmedieval:tuff_bricks_step2",
+      "ewmedieval:tuff_bricks_step3",
+      "ewmedieval:tuff_bricks_step4",
+      "ewmedieval:tuff_bricks_step5",
+      "ewmedieval:tuff_bricks_step6"
+    ]
+  },
+  "block.tuff_bricks.hit": {
+    "category": "block",
+    "subtitle": "subtitles.block.generic.hit",
+    "sounds": [
+      "ewmedieval:tuff_bricks_step1",
+      "ewmedieval:tuff_bricks_step2",
+      "ewmedieval:tuff_bricks_step3",
+      "ewmedieval:tuff_bricks_step4",
+      "ewmedieval:tuff_bricks_step5",
+      "ewmedieval:tuff_bricks_step6"
+    ]
+  },
+  "block.tuff_bricks.fall": {
+    "category": "block",
+    "subtitle": "subtitles.block.generic.fall",
+    "sounds": [
+      "ewmedieval:tuff_bricks_step1",
+      "ewmedieval:tuff_bricks_step2",
+      "ewmedieval:tuff_bricks_step3",
+      "ewmedieval:tuff_bricks_step4",
+      "ewmedieval:tuff_bricks_step5",
+      "ewmedieval:tuff_bricks_step6"
+    ]
+  },
+  "block.cutting_board.knife": {
+    "category": "block",
+    "subtitle": "subtitles.block.cutting_board.knife",
+    "sounds": [
+      "ewmedieval:block/cutting_board/knife1",
+      "ewmedieval:block/cutting_board/knife2"
+    ]
+  }
+}

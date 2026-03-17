@@ -1,0 +1,11 @@
+{
+  "type": "ewmedieval:cutting",
+  "ingredients": [
+    { "item": "minecraft:cactus" }
+  ],
+  "tool": { "tag": "ewmedieval:knives" },
+  "result": [
+    { "item": "ewmedieval:cactus_flesh", "count": 3, "chance": 1.0 }
+  ],
+  "sound": "ewmedieval:block.cutting_board.knife"
+}

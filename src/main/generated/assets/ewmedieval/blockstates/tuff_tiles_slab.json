@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ewmedieval:block/tuff_tiles_slab"
+    },
+    "type=double": {
+      "model": "ewmedieval:block/tuff_tiles"
+    },
+    "type=top": {
+      "model": "ewmedieval:block/tuff_tiles_slab_top"
+    }
+  }
+}

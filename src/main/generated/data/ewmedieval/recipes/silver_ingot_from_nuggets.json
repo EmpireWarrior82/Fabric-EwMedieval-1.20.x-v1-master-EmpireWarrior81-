@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ewmedieval:silver_nugget"
+    },
+    {
+      "item": "ewmedieval:silver_nugget"
+    },
+    {
+      "item": "ewmedieval:silver_nugget"
+    },
+    {
+      "item": "ewmedieval:silver_nugget"
+    },
+    {
+      "item": "ewmedieval:silver_nugget"
+    },
+    {
+      "item": "ewmedieval:silver_nugget"
+    },
+    {
+      "item": "ewmedieval:silver_nugget"
+    },
+    {
+      "item": "ewmedieval:silver_nugget"
+    },
+    {
+      "item": "ewmedieval:silver_nugget"
+    }
+  ],
+  "result": {
+    "item": "ewmedieval:silver_ingot"
+  }
+}

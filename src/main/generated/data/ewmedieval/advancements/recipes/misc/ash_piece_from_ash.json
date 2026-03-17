@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ash_piece": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ewmedieval:ash_piece"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ewmedieval:ash_piece_from_ash"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_ash_piece",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ewmedieval:ash_piece_from_ash"
+    ]
+  },
+  "sends_telemetry_event": false
+}

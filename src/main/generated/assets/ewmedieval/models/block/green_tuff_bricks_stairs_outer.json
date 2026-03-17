@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "ewmedieval:block/green_tuff_bricks",
+    "side": "ewmedieval:block/green_tuff_bricks",
+    "top": "ewmedieval:block/green_tuff_bricks"
+  }
+}

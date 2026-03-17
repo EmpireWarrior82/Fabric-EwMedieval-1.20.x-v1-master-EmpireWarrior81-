@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "group": "cooked_horse",
+  "ingredient": {
+    "item": "ewmedieval:raw_horse"
+  },
+  "result": "ewmedieval:cooked_horse"
+}

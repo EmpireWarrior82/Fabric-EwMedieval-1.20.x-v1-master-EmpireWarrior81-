@@ -1,0 +1,13 @@
+{
+  "type": "ewmedieval:earlyforge",
+  "ingredients": [
+    { "item": "ewmedieval:raw_silver" },
+    {},
+    {},
+    {}
+  ],
+  "result": {
+    "item": "ewmedieval:silver_ingot",
+    "count": 1
+  }
+}

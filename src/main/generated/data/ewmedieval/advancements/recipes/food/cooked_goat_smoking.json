@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_item.ewmedieval.raw_goat": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ewmedieval:raw_goat"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ewmedieval:cooked_goat_smoking"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_item.ewmedieval.raw_goat",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ewmedieval:cooked_goat_smoking"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,10 @@
+{
+  "type": "ewmedieval:cutting",
+  "ingredients": [
+    { "item": "minecraft:bricks" }
+  ],
+  "tool": { "tag": "minecraft:pickaxes" },
+  "result": [
+    { "item": "minecraft:brick", "count": 4, "chance": 1.0 }
+  ]
+}

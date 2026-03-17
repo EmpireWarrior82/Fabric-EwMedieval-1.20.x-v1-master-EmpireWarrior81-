@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ewmedieval:block/smooth_tuff_slab"
+    },
+    "type=double": {
+      "model": "ewmedieval:block/smooth_tuff"
+    },
+    "type=top": {
+      "model": "ewmedieval:block/smooth_tuff_slab_top"
+    }
+  }
+}

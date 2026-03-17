@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "ewmedieval:raw_mithril_block",
+    "ewmedieval:mithril_block"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "ewmedieval:block/mossy_blue_tuff_bricks",
+    "side": "ewmedieval:block/mossy_blue_tuff_bricks",
+    "top": "ewmedieval:block/mossy_blue_tuff_bricks"
+  }
+}

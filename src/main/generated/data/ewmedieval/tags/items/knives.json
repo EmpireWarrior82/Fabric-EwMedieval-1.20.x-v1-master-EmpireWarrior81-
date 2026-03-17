@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "ewmedieval:bronze_knife",
+    "ewmedieval:iron_knife",
+    "ewmedieval:golden_knife",
+    "ewmedieval:diamond_knife",
+    "ewmedieval:netherite_knife",
+    "ewmedieval:flint_knife",
+    "ewmedieval:stone_knife"
+  ]
+}

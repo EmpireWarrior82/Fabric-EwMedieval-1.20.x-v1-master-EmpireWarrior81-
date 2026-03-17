@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_item.ewmedieval.raw_wolf": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ewmedieval:raw_wolf"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ewmedieval:cooked_wolf_smoking"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_item.ewmedieval.raw_wolf",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ewmedieval:cooked_wolf_smoking"
+    ]
+  },
+  "sends_telemetry_event": false
+}

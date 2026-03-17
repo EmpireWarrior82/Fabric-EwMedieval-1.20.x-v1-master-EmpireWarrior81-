@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "half=lower,waterlogged=false": { "model": "ewmedieval:block/wild_rice_bottom" },
+    "half=lower,waterlogged=true": { "model": "ewmedieval:block/wild_rice_bottom" },
+    "half=upper,waterlogged=false": { "model": "ewmedieval:block/wild_rice_top" },
+    "half=upper,waterlogged=true": { "model": "ewmedieval:block/wild_rice_top" }
+  }
+}

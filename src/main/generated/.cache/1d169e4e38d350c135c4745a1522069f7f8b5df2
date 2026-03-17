@@ -1,0 +1,11 @@
+// 1.20.1	2026-03-17T20:17:00.876184	Ew medieval/Tags for minecraft:block
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data/ewmedieval/tags/blocks/drops_cake_slice.json
+db6b9d98ab50e5d8dcde46b2d827955b54711e19 data/minecraft/tags/blocks/climbable.json
+df2f6ad7c1eefc7bf9d10a3a59a982080ad58275 data/ewmedieval/tags/blocks/needs_bronze_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data/fabric/tags/blocks/needs_tool_level_4.json
+0036729ee0e7e930d2ad1219cfa6cc24eb33b95b data/minecraft/tags/blocks/needs_diamond_tool.json
+9bff986094ee97d879f3bab70fc98a4145edaf36 data/minecraft/tags/blocks/needs_stone_tool.json
+c3ba23847ebc8206ea7f8b399bd2ae5c8e8f113c data/minecraft/tags/blocks/walls.json
+68e577cdf4787e8a063f98dc30e4f48fc5b1c72d data/minecraft/tags/blocks/needs_iron_tool.json
+7df9b38eccc7553a62ea22b493a81d3afc8c3012 data/ewmedieval/tags/blocks/mineable/knife.json
+fb854762f13a9e730efe5cd290498b55a789f106 data/minecraft/tags/blocks/mineable/pickaxe.json

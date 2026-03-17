@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "ewmedieval:raw_silver_block",
+    "ewmedieval:silver_block",
+    "ewmedieval:deepslate_silver_ore",
+    "ewmedieval:khazad_steel_block",
+    "ewmedieval:burzum_steel_block",
+    "ewmedieval:edhel_steel_block",
+    "ewmedieval:crude_block",
+    "ewmedieval:cut_lead"
+  ]
+}

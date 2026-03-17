@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "ewmedieval:block/stone_brickwork",
+    "side": "ewmedieval:block/stone_brickwork",
+    "top": "ewmedieval:block/stone_brickwork"
+  }
+}

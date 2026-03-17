@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ewmedieval:block/deepslate_brickwork_slab"
+    },
+    "type=double": {
+      "model": "ewmedieval:block/deepslate_brickwork"
+    },
+    "type=top": {
+      "model": "ewmedieval:block/deepslate_brickwork_slab_top"
+    }
+  }
+}

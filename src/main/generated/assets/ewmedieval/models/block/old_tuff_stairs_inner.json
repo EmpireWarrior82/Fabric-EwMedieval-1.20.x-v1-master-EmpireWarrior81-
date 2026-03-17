@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "ewmedieval:block/old_tuff",
+    "side": "ewmedieval:block/old_tuff",
+    "top": "ewmedieval:block/old_tuff"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "ewmedieval:block/old_stone",
+    "side": "ewmedieval:block/old_stone",
+    "top": "ewmedieval:block/old_stone"
+  }
+}

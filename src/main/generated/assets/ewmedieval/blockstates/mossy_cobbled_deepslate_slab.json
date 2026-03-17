@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ewmedieval:block/mossy_cobbled_deepslate_slab"
+    },
+    "type=double": {
+      "model": "ewmedieval:block/mossy_cobbled_deepslate"
+    },
+    "type=top": {
+      "model": "ewmedieval:block/mossy_cobbled_deepslate_slab_top"
+    }
+  }
+}

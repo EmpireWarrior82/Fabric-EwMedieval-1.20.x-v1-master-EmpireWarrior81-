@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.9,
+  "group": "silver_ingot",
+  "ingredient": {
+    "item": "ewmedieval:deepslate_lead_ore"
+  },
+  "result": "ewmedieval:lead_ingot"
+}

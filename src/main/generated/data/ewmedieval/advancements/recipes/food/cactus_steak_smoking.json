@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_item.ewmedieval.cactus_flesh": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ewmedieval:cactus_flesh"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ewmedieval:cactus_steak_smoking"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_item.ewmedieval.cactus_flesh",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ewmedieval:cactus_steak_smoking"
+    ]
+  },
+  "sends_telemetry_event": false
+}

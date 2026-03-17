@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ewmedieval:ash_piece"
+    },
+    {
+      "item": "ewmedieval:ash_piece"
+    },
+    {
+      "item": "ewmedieval:ash_piece"
+    },
+    {
+      "item": "ewmedieval:ash_piece"
+    },
+    {
+      "item": "ewmedieval:ash_piece"
+    }
+  ],
+  "result": {
+    "item": "ewmedieval:ash"
+  }
+}

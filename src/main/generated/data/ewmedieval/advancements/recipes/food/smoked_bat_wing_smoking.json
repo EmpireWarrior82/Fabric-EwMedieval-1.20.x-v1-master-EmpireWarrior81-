@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_item.ewmedieval.bat_wing": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ewmedieval:bat_wing"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ewmedieval:smoked_bat_wing_smoking"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_item.ewmedieval.bat_wing",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ewmedieval:smoked_bat_wing_smoking"
+    ]
+  },
+  "sends_telemetry_event": false
+}

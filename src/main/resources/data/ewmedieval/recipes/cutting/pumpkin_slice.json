@@ -1,0 +1,11 @@
+{
+  "type": "ewmedieval:cutting",
+  "ingredients": [
+    { "item": "minecraft:pumpkin" }
+  ],
+  "tool": { "tag": "ewmedieval:knives" },
+  "result": [
+    { "item": "ewmedieval:pumpkin_slice", "count": 4, "chance": 1.0 }
+  ],
+  "sound": "ewmedieval:block.cutting_board.knife"
+}

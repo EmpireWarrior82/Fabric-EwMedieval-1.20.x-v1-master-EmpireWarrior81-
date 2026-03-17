@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "ewmedieval",
+	"version": "${version}",
+	"name": "Ew medieval",
+	"description": "This is a Mod that adds a lot of medieval aspects to the game",
+	"authors": [
+		"EmpireWarrior81"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/ewmedieval/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.empire.ewmedieval.EwMedieval"
+		],
+		"client": [
+			"net.empire.ewmedieval.EwMedievalClient"
+		],
+		"fabric-datagen": [
+			"net.empire.ewmedieval.EwMedievalDataGenerator"
+		]
+	},
+	"mixins": [
+		"ewmedieval.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.20.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "ewmedieval:block/crop_cross",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "cross": "ewmedieval:block/tomatoes_stage0"
+  }
+}

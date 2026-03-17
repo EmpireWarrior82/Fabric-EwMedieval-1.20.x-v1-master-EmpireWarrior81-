@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "ewmedieval:block/cracked_green_tuff_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "ewmedieval:block/cracked_green_tuff_pillar"
+    },
+    "axis=z": {
+      "model": "ewmedieval:block/cracked_green_tuff_pillar",
+      "x": 90
+    }
+  }
+}

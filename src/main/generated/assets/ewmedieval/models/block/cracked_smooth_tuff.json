@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "ewmedieval:block/cracked_smooth_tuff"
+  }
+}

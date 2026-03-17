@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "ewmedieval:block/mossy_tuff_tiles",
+    "side": "ewmedieval:block/mossy_tuff_tiles",
+    "top": "ewmedieval:block/mossy_tuff_tiles"
+  }
+}

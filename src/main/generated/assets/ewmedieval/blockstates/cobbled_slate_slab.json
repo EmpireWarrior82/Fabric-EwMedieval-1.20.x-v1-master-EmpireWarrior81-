@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ewmedieval:block/cobbled_slate_slab"
+    },
+    "type=double": {
+      "model": "ewmedieval:block/cobbled_slate"
+    },
+    "type=top": {
+      "model": "ewmedieval:block/cobbled_slate_slab_top"
+    }
+  }
+}

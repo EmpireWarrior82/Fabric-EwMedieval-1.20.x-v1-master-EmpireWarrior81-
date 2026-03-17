@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "ewmedieval:block/stone_tiles",
+    "side": "ewmedieval:block/stone_tiles",
+    "top": "ewmedieval:block/stone_tiles"
+  }
+}

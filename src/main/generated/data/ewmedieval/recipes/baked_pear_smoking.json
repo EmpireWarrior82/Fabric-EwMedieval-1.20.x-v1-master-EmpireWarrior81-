@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "group": "baked_pear",
+  "ingredient": {
+    "item": "ewmedieval:pear"
+  },
+  "result": "ewmedieval:baked_pear"
+}

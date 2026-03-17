@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cake",
+    "minecraft:cobweb",
+    "#minecraft:leaves",
+    "minecraft:vine",
+    "minecraft:glow_lichen",
+    "minecraft:tall_grass",
+    "minecraft:grass",
+    "minecraft:fern",
+    "minecraft:large_fern",
+    "minecraft:dead_bush",
+    "minecraft:hanging_roots",
+    "minecraft:nether_sprouts",
+    "minecraft:warped_roots",
+    "minecraft:crimson_roots",
+    "minecraft:twisting_vines",
+    "minecraft:weeping_vines",
+    "minecraft:cave_vines"
+  ]
+}

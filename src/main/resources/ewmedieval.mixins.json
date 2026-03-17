@@ -1,0 +1,18 @@
+{
+      "required": true,
+      "package": "net.empire.ewmedieval.mixin",
+      "compatibilityLevel": "JAVA_21",
+      "mixins": [
+        "ExampleMixin",
+        "MiningToolItemMixin",
+        "EnchantementMixin",
+        "LivingEntityBackstabMixin"
+
+      ],
+      "injectors": {
+        "defaultRequire": 1
+      },
+      "overwrites": {
+        "requireAnnotations": true
+      }
+}

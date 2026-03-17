@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "ewmedieval:block/cobbled_green_tuff",
+    "side": "ewmedieval:block/cobbled_green_tuff",
+    "top": "ewmedieval:block/cobbled_green_tuff"
+  }
+}

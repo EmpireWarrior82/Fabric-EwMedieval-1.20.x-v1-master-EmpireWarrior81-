@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ewmedieval:mithril_nugget"
+    },
+    {
+      "item": "ewmedieval:mithril_nugget"
+    },
+    {
+      "item": "ewmedieval:mithril_nugget"
+    },
+    {
+      "item": "ewmedieval:mithril_nugget"
+    },
+    {
+      "item": "ewmedieval:mithril_nugget"
+    },
+    {
+      "item": "ewmedieval:mithril_nugget"
+    },
+    {
+      "item": "ewmedieval:mithril_nugget"
+    },
+    {
+      "item": "ewmedieval:mithril_nugget"
+    },
+    {
+      "item": "ewmedieval:mithril_nugget"
+    }
+  ],
+  "result": {
+    "item": "ewmedieval:mithril_ingot"
+  }
+}

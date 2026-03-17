@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "ewmedieval:block/chiseled_deepslate_tiles_top",
+    "east": "ewmedieval:block/chiseled_deepslate_tiles",
+    "north": "ewmedieval:block/chiseled_deepslate_tiles",
+    "particle": "ewmedieval:block/chiseled_deepslate_tiles",
+    "south": "ewmedieval:block/chiseled_deepslate_tiles",
+    "up": "ewmedieval:block/chiseled_deepslate_tiles_top",
+    "west": "ewmedieval:block/chiseled_deepslate_tiles"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.15,
+  "group": "ash",
+  "ingredient": {
+    "item": "minecraft:spider_eye"
+  },
+  "result": "ewmedieval:ash_piece"
+}

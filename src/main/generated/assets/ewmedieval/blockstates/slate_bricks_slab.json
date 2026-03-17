@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ewmedieval:block/slate_bricks_slab"
+    },
+    "type=double": {
+      "model": "ewmedieval:block/slate_bricks"
+    },
+    "type=top": {
+      "model": "ewmedieval:block/slate_bricks_slab_top"
+    }
+  }
+}

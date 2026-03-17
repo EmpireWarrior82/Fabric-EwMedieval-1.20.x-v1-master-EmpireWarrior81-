@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ewmedieval:copper_nugget"
+    },
+    {
+      "item": "ewmedieval:copper_nugget"
+    },
+    {
+      "item": "ewmedieval:copper_nugget"
+    },
+    {
+      "item": "ewmedieval:copper_nugget"
+    },
+    {
+      "item": "ewmedieval:copper_nugget"
+    },
+    {
+      "item": "ewmedieval:copper_nugget"
+    },
+    {
+      "item": "ewmedieval:copper_nugget"
+    },
+    {
+      "item": "ewmedieval:copper_nugget"
+    },
+    {
+      "item": "ewmedieval:copper_nugget"
+    }
+  ],
+  "result": {
+    "item": "minecraft:copper_ingot"
+  }
+}

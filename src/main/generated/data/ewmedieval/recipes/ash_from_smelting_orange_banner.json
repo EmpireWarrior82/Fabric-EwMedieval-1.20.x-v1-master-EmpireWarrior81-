@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 115,
+  "experience": 0.16,
+  "group": "ash",
+  "ingredient": {
+    "item": "minecraft:orange_banner"
+  },
+  "result": "ewmedieval:ash"
+}

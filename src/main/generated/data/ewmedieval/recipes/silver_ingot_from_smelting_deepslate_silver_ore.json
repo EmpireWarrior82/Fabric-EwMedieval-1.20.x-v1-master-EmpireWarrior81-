@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.9,
+  "group": "silver_ingot",
+  "ingredient": {
+    "item": "ewmedieval:deepslate_silver_ore"
+  },
+  "result": "ewmedieval:silver_ingot"
+}

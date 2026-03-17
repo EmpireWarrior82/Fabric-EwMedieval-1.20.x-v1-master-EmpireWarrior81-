@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ewmedieval:khazad_steel_nugget"
+    },
+    {
+      "item": "ewmedieval:khazad_steel_nugget"
+    },
+    {
+      "item": "ewmedieval:khazad_steel_nugget"
+    },
+    {
+      "item": "ewmedieval:khazad_steel_nugget"
+    },
+    {
+      "item": "ewmedieval:khazad_steel_nugget"
+    },
+    {
+      "item": "ewmedieval:khazad_steel_nugget"
+    },
+    {
+      "item": "ewmedieval:khazad_steel_nugget"
+    },
+    {
+      "item": "ewmedieval:khazad_steel_nugget"
+    },
+    {
+      "item": "ewmedieval:khazad_steel_nugget"
+    }
+  ],
+  "result": {
+    "item": "ewmedieval:khazad_steel_ingot"
+  }
+}

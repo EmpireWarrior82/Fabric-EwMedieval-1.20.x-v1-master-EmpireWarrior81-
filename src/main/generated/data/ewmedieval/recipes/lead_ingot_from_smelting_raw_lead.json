@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.9,
+  "group": "silver_ingot",
+  "ingredient": {
+    "item": "ewmedieval:raw_lead"
+  },
+  "result": "ewmedieval:lead_ingot"
+}

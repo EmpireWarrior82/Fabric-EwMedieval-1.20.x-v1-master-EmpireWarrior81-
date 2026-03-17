@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "ewmedieval:block/cobbled_green_tuff"
+  }
+}

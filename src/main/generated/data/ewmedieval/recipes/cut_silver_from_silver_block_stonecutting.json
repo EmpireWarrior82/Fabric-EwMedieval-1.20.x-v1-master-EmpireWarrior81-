@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "ewmedieval:silver_block"
+  },
+  "result": "ewmedieval:cut_silver"
+}

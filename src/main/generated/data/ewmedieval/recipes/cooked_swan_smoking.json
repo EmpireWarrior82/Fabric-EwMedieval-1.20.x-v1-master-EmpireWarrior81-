@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "group": "cooked_swan",
+  "ingredient": {
+    "item": "ewmedieval:raw_swan"
+  },
+  "result": "ewmedieval:cooked_swan"
+}

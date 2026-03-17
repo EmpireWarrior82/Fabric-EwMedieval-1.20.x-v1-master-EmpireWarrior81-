@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "ewmedieval:copper_nugget"
+    },
+    "S": {
+      "item": "ewmedieval:tin_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "result": {
+    "item": "ewmedieval:bronze_mixture"
+  },
+  "show_notification": true
+}

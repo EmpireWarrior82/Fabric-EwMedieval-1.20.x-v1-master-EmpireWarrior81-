@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "ewmedieval:block/gilded_green_tuff"
+  }
+}

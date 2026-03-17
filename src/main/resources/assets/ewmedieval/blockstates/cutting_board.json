@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "ewmedieval:block/cutting_board",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "ewmedieval:block/cutting_board"
+    },
+    "facing=south": {
+      "model": "ewmedieval:block/cutting_board",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ewmedieval:block/cutting_board",
+      "y": 270
+    }
+  }
+}

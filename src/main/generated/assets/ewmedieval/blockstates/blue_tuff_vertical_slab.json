@@ -1,0 +1,144 @@
+{
+  "variants": {
+    "double=false,facing=east,shape=inner_left": {
+      "model": "ewmedieval:block/vertical_slab_inner",
+      "y": 90
+    },
+    "double=false,facing=east,shape=inner_right": {
+      "model": "ewmedieval:block/vertical_slab_inner",
+      "y": 90
+    },
+    "double=false,facing=east,shape=outer_left": {
+      "model": "ewmedieval:block/vertical_slab_outer",
+      "y": 90
+    },
+    "double=false,facing=east,shape=outer_right": {
+      "model": "ewmedieval:block/vertical_slab_outer",
+      "y": 90
+    },
+    "double=false,facing=east,shape=straight": {
+      "model": "ewmedieval:block/vertical_slab_straight",
+      "y": 90
+    },
+    "double=false,facing=north,shape=inner_left": {
+      "model": "ewmedieval:block/vertical_slab_inner",
+      "y": 0
+    },
+    "double=false,facing=north,shape=inner_right": {
+      "model": "ewmedieval:block/vertical_slab_inner",
+      "y": 0
+    },
+    "double=false,facing=north,shape=outer_left": {
+      "model": "ewmedieval:block/vertical_slab_outer",
+      "y": 0
+    },
+    "double=false,facing=north,shape=outer_right": {
+      "model": "ewmedieval:block/vertical_slab_outer",
+      "y": 0
+    },
+    "double=false,facing=north,shape=straight": {
+      "model": "ewmedieval:block/vertical_slab_straight",
+      "y": 0
+    },
+    "double=false,facing=south,shape=inner_left": {
+      "model": "ewmedieval:block/vertical_slab_inner",
+      "y": 180
+    },
+    "double=false,facing=south,shape=inner_right": {
+      "model": "ewmedieval:block/vertical_slab_inner",
+      "y": 180
+    },
+    "double=false,facing=south,shape=outer_left": {
+      "model": "ewmedieval:block/vertical_slab_outer",
+      "y": 180
+    },
+    "double=false,facing=south,shape=outer_right": {
+      "model": "ewmedieval:block/vertical_slab_outer",
+      "y": 180
+    },
+    "double=false,facing=south,shape=straight": {
+      "model": "ewmedieval:block/vertical_slab_straight",
+      "y": 180
+    },
+    "double=false,facing=west,shape=inner_left": {
+      "model": "ewmedieval:block/vertical_slab_inner",
+      "y": 270
+    },
+    "double=false,facing=west,shape=inner_right": {
+      "model": "ewmedieval:block/vertical_slab_inner",
+      "y": 270
+    },
+    "double=false,facing=west,shape=outer_left": {
+      "model": "ewmedieval:block/vertical_slab_outer",
+      "y": 270
+    },
+    "double=false,facing=west,shape=outer_right": {
+      "model": "ewmedieval:block/vertical_slab_outer",
+      "y": 270
+    },
+    "double=false,facing=west,shape=straight": {
+      "model": "ewmedieval:block/vertical_slab_straight",
+      "y": 270
+    },
+    "double=true,facing=east,shape=inner_left": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=east,shape=inner_right": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=east,shape=outer_left": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=east,shape=outer_right": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=east,shape=straight": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=north,shape=inner_left": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=north,shape=inner_right": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=north,shape=outer_left": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=north,shape=outer_right": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=north,shape=straight": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=south,shape=inner_left": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=south,shape=inner_right": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=south,shape=outer_left": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=south,shape=outer_right": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=south,shape=straight": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=west,shape=inner_left": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=west,shape=inner_right": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=west,shape=outer_left": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=west,shape=outer_right": {
+      "model": "ewmedieval:block/blue_tuff"
+    },
+    "double=true,facing=west,shape=straight": {
+      "model": "ewmedieval:block/blue_tuff"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ewmedieval:crude_nugget"
+    },
+    {
+      "item": "ewmedieval:crude_nugget"
+    },
+    {
+      "item": "ewmedieval:crude_nugget"
+    },
+    {
+      "item": "ewmedieval:crude_nugget"
+    },
+    {
+      "item": "ewmedieval:crude_nugget"
+    },
+    {
+      "item": "ewmedieval:crude_nugget"
+    },
+    {
+      "item": "ewmedieval:crude_nugget"
+    },
+    {
+      "item": "ewmedieval:crude_nugget"
+    },
+    {
+      "item": "ewmedieval:crude_nugget"
+    }
+  ],
+  "result": {
+    "item": "ewmedieval:crude_ingot"
+  }
+}

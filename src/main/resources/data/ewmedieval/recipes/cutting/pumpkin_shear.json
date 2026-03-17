@@ -1,0 +1,16 @@
+{
+  "type": "ewmedieval:cutting",
+  "ingredients": [
+    { "item": "minecraft:pumpkin" }
+  ],
+  "tool": [
+    { "item": "minecraft:shears" },
+    { "item": "ewmedieval:bronze_shears"}
+
+  ],
+  "result": [
+    { "item": "minecraft:carved_pumpkin", "count": 1, "chance": 1.0 },
+    { "item": "minecraft:pumpkin_seeds", "count": 4, "chance": 0.75 }
+  ],
+  "sound": "minecraft:entity.sheep.shear"
+}

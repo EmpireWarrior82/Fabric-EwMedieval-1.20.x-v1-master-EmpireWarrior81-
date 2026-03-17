@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "ewmedieval:block/gilded_chiseled_green_tuff_bricks_top",
+    "east": "ewmedieval:block/gilded_chiseled_green_tuff_bricks",
+    "north": "ewmedieval:block/gilded_chiseled_green_tuff_bricks",
+    "particle": "ewmedieval:block/gilded_chiseled_green_tuff_bricks",
+    "south": "ewmedieval:block/gilded_chiseled_green_tuff_bricks",
+    "up": "ewmedieval:block/gilded_chiseled_green_tuff_bricks_top",
+    "west": "ewmedieval:block/gilded_chiseled_green_tuff_bricks"
+  }
+}

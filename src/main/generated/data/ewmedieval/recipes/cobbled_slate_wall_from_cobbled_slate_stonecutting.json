@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "ewmedieval:cobbled_slate"
+  },
+  "result": "ewmedieval:cobbled_slate_wall"
+}

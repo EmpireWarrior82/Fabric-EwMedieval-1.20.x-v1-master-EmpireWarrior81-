@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ewmedieval:block/mossy_tuff_bricks_slab"
+    },
+    "type=double": {
+      "model": "ewmedieval:block/mossy_tuff_bricks"
+    },
+    "type=top": {
+      "model": "ewmedieval:block/mossy_tuff_bricks_slab_top"
+    }
+  }
+}

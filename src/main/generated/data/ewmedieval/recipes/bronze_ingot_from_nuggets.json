@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ewmedieval:bronze_nugget"
+    },
+    {
+      "item": "ewmedieval:bronze_nugget"
+    },
+    {
+      "item": "ewmedieval:bronze_nugget"
+    },
+    {
+      "item": "ewmedieval:bronze_nugget"
+    },
+    {
+      "item": "ewmedieval:bronze_nugget"
+    },
+    {
+      "item": "ewmedieval:bronze_nugget"
+    },
+    {
+      "item": "ewmedieval:bronze_nugget"
+    },
+    {
+      "item": "ewmedieval:bronze_nugget"
+    },
+    {
+      "item": "ewmedieval:bronze_nugget"
+    }
+  ],
+  "result": {
+    "item": "ewmedieval:bronze_ingot"
+  }
+}

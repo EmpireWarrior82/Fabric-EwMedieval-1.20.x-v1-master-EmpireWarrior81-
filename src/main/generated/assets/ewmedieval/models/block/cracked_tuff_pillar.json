@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "ewmedieval:block/cracked_tuff_pillar_top",
+    "side": "ewmedieval:block/cracked_tuff_pillar"
+  }
+}

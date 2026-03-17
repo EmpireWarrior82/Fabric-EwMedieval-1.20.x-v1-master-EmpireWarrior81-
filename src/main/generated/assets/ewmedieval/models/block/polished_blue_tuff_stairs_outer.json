@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "ewmedieval:block/polished_blue_tuff",
+    "side": "ewmedieval:block/polished_blue_tuff",
+    "top": "ewmedieval:block/polished_blue_tuff"
+  }
+}
